@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "makeHumanScriptingOnline.data.unityweb",
+"asmCodeUrl": "makeHumanScriptingOnline.asm.code.unityweb",
+"asmMemoryUrl": "makeHumanScriptingOnline.asm.memory.unityweb",
+"asmFrameworkUrl": "makeHumanScriptingOnline.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
